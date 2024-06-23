@@ -1,0 +1,21 @@
+{
+  "name": "spacecorps2024-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.165.0",
+    "three": "^0.165.0",
+    "typescript": "^5.5.2",
+    "ws": "^8.17.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10"
+  }
+}
